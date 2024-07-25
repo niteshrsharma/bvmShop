@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.main-cont{
+  height: calc(100vh - 5em);
+  background-color: whitesmoke;
+  width: 100vw;
+  overflow: auto;
+}
